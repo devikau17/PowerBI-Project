@@ -9,6 +9,7 @@ This Power BI project provides a **interactive Power BI dashboard of the Nifty 5
 focusing on the top 50 companies listed in the stock market. The dashboard offers insights into:  
 
 ## Stock Analysis📉
+
 Stock Overview: High, Low, VWAP (Volume Weighted Average Price) for a quick market snapshot.
 Stock Price Trends: Tracking closing price movements to identify market trends.
 52-Week High & Low Extremes: Identifying stocks that reached their yearly peaks or lows.
@@ -97,14 +98,21 @@ Follow these steps to explore the **Power BI report**:
 
 ## Screenshots 📷  
 
+![Screenshot (27)](https://github.com/user-attachments/assets/218cbb97-3c6f-4b9f-af82-4560aa1338d8)
+
+
+
+![Screenshot (28)](https://github.com/user-attachments/assets/7a24a2a6-716c-4902-accc-db75f567210d)
 
 
 
 
+![Screenshot (29)](https://github.com/user-attachments/assets/505a62c0-16f5-44ce-beb6-25e445b59cd5)
 
 
 
 
+![Screenshot (30)](https://github.com/user-attachments/assets/fd58c5d5-8411-44ae-9eef-ae041d3ab191)
 
 
 

@@ -49,6 +49,8 @@ The project is designed to help **investors, analysts, and researchers** gain va
 
 
 
+
+
 ### **Data Columns:**  
 
 - **Company Name** – Name of the Nifty 50 company  

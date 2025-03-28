@@ -1,7 +1,7 @@
 # PowerBI-Project
 
 
-## Nifty50 Stock Analysis Power BI Project 📊
+## Nifty50 Stock Market Analysis 📊
 
 
 ## Overview  

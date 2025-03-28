@@ -43,7 +43,7 @@ The project is designed to help **investors, analysts, and researchers** gain va
 
 ## Dataset 📂
 
-
+[https://github.com/devikau17/PowerBI-Project/blob/main/nifty50_dataset.xlsx]
 
 
 

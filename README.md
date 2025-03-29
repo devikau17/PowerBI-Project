@@ -116,9 +116,7 @@ Follow these steps to explore the **Power BI report**:
 
 
 
-!-- Failed to upload "projectnifty50 (1) - Power BI and 8 more pages - Personal - Microsoft​ Edge 2025-03-29 14-25-57.mp4" --
 
-file:///C:/Users/devik/Videos/Captures/projectnifty50%20(1)%20-%20Power%20BI%20and%208%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202025-03-29%2014-47-52.mp4
 
 
 
